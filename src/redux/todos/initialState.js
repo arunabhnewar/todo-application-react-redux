@@ -4,7 +4,7 @@ export const initialState = [
         id: 1,
         text: "learn JavaScript",
         completed: true,
-        color: "green",
+        // color: "green",
     },
     {
         id: 2,
